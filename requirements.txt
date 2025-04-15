@@ -1,0 +1,8 @@
+numpy==1.26.4 # new version
+scikit-learn==1.6.1 # new version
+matplotlib==3.10.1 # new version
+pillow==11.2.1 # new version
+torch==1.13.1 # new version
+torchaudio==0.13.1 # new version
+torchvision==0.14.1 # new version
+
