@@ -75,4 +75,6 @@ Paweł Stachura, Zhe Lu, Raphael M. Kronberg et al. Deep transfer learning appro
   publisher={MDPI}
 }
 ```
+
+Note: The Python version and library dependencies have been updated to reflect more recent versions. These updates were made to ensure compatibility with current environments and may result in minor differences compared to the original implementation.
 ---
